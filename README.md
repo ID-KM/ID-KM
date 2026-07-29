@@ -26,46 +26,6 @@
 
 <br>
 
-<!-- الخِص / الملخص — مكبر ومصمم -->
-<div align="center" style="font-size: 22px;">
-
-<sub style="font-size: 24px;">❝</sub>
-
-<br>
-
-<table align="center" style="font-size: 20px;">
-  <tr>
-    <td align="left" width="260" style="font-size: 28px; line-height: 2;" dir="rtl">
-      <strong>أكتب كوداً</strong><br>
-      ليس لأنه عملي<br>
-      بل لأنه<br>
-      <strong>طريقتي</strong><br>
-      لفهم العالم
-    </td>
-    <td width="30"></td>
-    <td align="right" width="380" style="font-size: 18px; line-height: 2;" dir="rtl">
-      أحوّل الأفكار إلى تطبيقات.<br>
-      أعمل بـ <strong>Python</strong> • <strong>Flask</strong> • <strong>Flutter</strong> • <strong>Godot</strong><br>
-      أؤمن بأن <strong>أقل كود يحل المشكلة</strong><br>
-      هو الكود الأفضل.<br>
-      <br>
-      <sub style="font-size: 15px;">— لا تعقيد، لا feature creep، لا كسل</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<sub style="font-size: 24px;">❞</sub>
-
-</div>
-
-<br>
-
----
-
-<br>
-
 <!-- المشاريع — في خانات كبيت -->
 <div align="center" style="font-size: 18px;">
   <sub style="font-size: 22px;"><strong>الغابة</strong></sub>

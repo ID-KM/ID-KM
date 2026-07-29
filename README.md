@@ -1,30 +1,105 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml,%3Csvg width='840' height='520' viewBox='0 0 840 520' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3Cstyle%3E@keyframes twink%7B0%25,100%25%7Bopacity:.2%7D50%25%7Bopacity:1%7D%7D@keyframes drift%7B0%25,100%25%7Btransform:translateX(0)%7D50%25%7Btransform:translateX(30px)%7D%7D@keyframes blink%7B0%25,88%25,100%25%7Btransform:scaleY(1)%7D92%25%7Btransform:scaleY(.1)%7D%7D@keyframes sway%7B0%25,100%25%7Btransform:rotate(-2deg)%7D50%25%7Btransform:rotate(2deg)%7D%7D@keyframes glow%7B0%25,100%25%7Bopacity:.15%7D50%25%7Bopacity:.7%7D%7D@keyframes firefly%7B0%25%7Btransform:translateY(0)translateX(0);opacity:0%7D10%25%7Bopacity:.8%7D90%25%7Bopacity:.6%7D100%25%7Btransform:translateY(-140px)translateX(30px);opacity:0%7D%7D.s%7Banimation:twink 3s ease-in-out infinite%7D.s1%7Banimation-delay:.5s%7D.s2%7Banimation-delay:1s%7D.s3%7Banimation-delay:1.5s%7D.s4%7Banimation-delay:2s%7D.s5%7Banimation-delay:2.5s%7D.c%7Banimation:drift 8s ease-in-out infinite%7D.c1%7Banimation-delay:-2s%7D.c2%7Banimation-delay:-5s%7D.ey%7Banimation:blink 4s ease-in-out infinite;transform-origin:center%7D.g%7Banimation:sway 3s ease-in-out infinite;transform-origin:bottom%7D.g1%7Banimation-delay:-.5s%7D.g2%7Banimation-delay:-1s%7D.g3%7Banimation-delay:-1.5s%7D.gl%7Banimation:glow 4s ease-in-out infinite%7D.f%7Banimation:firefly 6s ease-in-out infinite%7D.f1%7Banimation-delay:-1s%7D.f2%7Banimation-delay:-2s%7D.f3%7Banimation-delay:-3s%7D.f4%7Banimation-delay:-4s%7D%3C/style%3E%3ClinearGradient id='ng' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0%25' stop-color='%23080b1a'/%3E%3Cstop offset='60%25' stop-color='%231a1a3e'/%3E%3Cstop offset='100%25' stop-color='%231a2e0a'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='840' height='520' fill='url(%23ng)' rx='20'/%3E%3C!-- moon --%3E%3Ccircle cx='700' cy='75' r='28' fill='%23fde68a' opacity='.15'/%3E%3Ccircle cx='700' cy='75' r='22' fill='%23fde68a' opacity='.12'/%3E%3Ccircle cx='700' cy='75' r='16' fill='%23fde68a' opacity='.08'/%3E%3C!-- animated stars --%3E%3Ccircle class='s s1' cx='50' cy='40' r='1.5' fill='%23fde68a'/%3E%3Ccircle class='s s2' cx='150' cy='60' r='1.2' fill='%23fde68a'/%3E%3Ccircle class='s s3' cx='250' cy='30' r='1.8' fill='%23fde68a'/%3E%3Ccircle class='s s4' cx='350' cy='50' r='1' fill='%23fde68a'/%3E%3Ccircle class='s s5' cx='450' cy='25' r='1.5' fill='%23fde68a'/%3E%3Ccircle class='s s1' cx='550' cy='55' r='1.2' fill='%23fde68a'/%3E%3Ccircle class='s s2' cx='620' cy='35' r='1' fill='%23fde68a'/%3E%3Ccircle class='s s3' cx='780' cy='45' r='1.5' fill='%23fde68a'/%3E%3Ccircle class='s s4' cx='80' cy='80' r='1' fill='%23fde68a'/%3E%3Ccircle class='s s5' cx='320' cy='80' r='1.3' fill='%23fde68a'/%3E%3Ccircle class='s s1' cx='680' cy='110' r='1' fill='%23fde68a'/%3E%3Ccircle class='s s2' cx='490' cy='75' r='1.5' fill='%23fde68a'/%3E%3Ccircle class='s s3' cx='120' cy='110' r='1' fill='%23fde68a'/%3E%3Ccircle class='s s4' cx='800' cy='80' r='1.2' fill='%23fde68a'/%3E%3C!-- drifting clouds --%3E%3Cg class='c c1' opacity='.15'%3E%3Cellipse cx='180' cy='90' rx='70' ry='18' fill='%236b7280'/%3E%3Ccircle cx='160' cy='85' r='22' fill='%236b7280'/%3E%3Ccircle cx='200' cy='83' r='25' fill='%236b7280'/%3E%3C/g%3E%3Cg class='c c2' opacity='.1'%3E%3Cellipse cx='550' cy='70' rx='60' ry='15' fill='%236b7280'/%3E%3Ccircle cx='535' cy='66' r='18' fill='%236b7280'/%3E%3Ccircle cx='565' cy='64' r='20' fill='%236b7280'/%3E%3C/g%3E%3C!-- Totoro --%3E%3Cg transform='translate(420,300)'%3E%3C!-- body --%3E%3Cellipse cx='0' cy='30' rx='105' ry='125' fill='%234b5563'/%3E%3C!-- belly --%3E%3Cellipse cx='0' cy='55' rx='68' ry='85' fill='%239ca3af' opacity='.4'/%3E%3C!-- head --%3E%3Cellipse cx='0' cy='-65' rx='85' ry='75' fill='%234b5563'/%3E%3C!-- ears --%3E%3Cpolygon points='-65,-105 -78,-165 -48,-120' fill='%234b5563'/%3E%3Cpolygon points='65,-105 78,-165 48,-120' fill='%234b5563'/%3E%3C!-- eyes with blink --%3E%3Cg%3E%3Ccircle cx='-28' cy='-73' r='11' fill='%231a1a2e'/%3E%3Ccircle cx='28' cy='-73' r='11' fill='%231a1a2e'/%3E%3Cg class='ey'%3E%3Ccircle cx='-26' cy='-75' r='4.5' fill='%23fde68a' opacity='.7'/%3E%3Ccircle cx='30' cy='-75' r='4.5' fill='%23fde68a' opacity='.7'/%3E%3C/g%3E%3C/g%3E%3C!-- nose --%3E%3Cellipse cx='0' cy='-55' rx='7' ry='5' fill='%232d3748'/%3E%3C!-- mouth --%3E%3Cpath d='M-14,-45 Q0,-35 14,-45' stroke='%232d3748' stroke-width='2.5' fill='none'/%3E%3C!-- whiskers --%3E%3Cg stroke='%239ca3af' stroke-width='1.5' opacity='.4'%3E%3Cline x1='-45' y1='-62' x2='-78' y2='-70'/%3E%3Cline x1='-45' y1='-53' x2='-78' y2='-53'/%3E%3Cline x1='-45' y1='-44' x2='-78' y2='-36'/%3E%3Cline x1='45' y1='-62' x2='78' y2='-70'/%3E%3Cline x1='45' y1='-53' x2='78' y2='-53'/%3E%3Cline x1='45' y1='-44' x2='78' y2='-36'/%3E%3C/g%3E%3C!-- arms --%3E%3Cellipse cx='-105' cy='15' rx='25' ry='38' fill='%234b5563' transform='rotate(-12,-105,15)'/%3E%3Cellipse cx='105' cy='15' rx='25' ry='38' fill='%234b5563' transform='rotate(12,105,15)'/%3E%3C!-- belly V --%3E%3Cpath d='M-15,-30 L0,-18 L15,-30' stroke='%239ca3af' stroke-width='1.5' fill='none' opacity='.3'/%3E%3C!-- feet --%3E%3Cellipse cx='-42' cy='155' rx='32' ry='12' fill='%23374151'/%3E%3Cellipse cx='42' cy='155' rx='32' ry='12' fill='%23374151'/%3E%3C/g%3E%3C!-- animated grass --%3E%3Cg fill='%23365e2b' opacity='.6'%3E%3Cpath class='g g1' d='M40,490 Q45,450 50,490'/%3E%3Cpath class='g g2' d='M100,490 Q105,445 110,490'/%3E%3Cpath class='g g3' d='M170,490 Q175,455 180,490'/%3E%3Cpath class='g g1' d='M240,490 Q245,440 250,490'/%3E%3Cpath class='g g2' d='M560,490 Q565,450 570,490'/%3E%3Cpath class='g g3' d='M630,490 Q635,445 640,490'/%3E%3Cpath class='g g1' d='M700,490 Q705,455 710,490'/%3E%3Cpath class='g g2' d='M770,490 Q775,440 780,490'/%3E%3C/g%3E%3Crect x='0' y='495' width='840' height='25' fill='%231a2e0a' opacity='.5'/%3E%3C!-- fireflies --%3E%3Ccircle class='f f1 gl' cx='80' cy='370' r='3' fill='%23fde68a'/%3E%3Ccircle class='f f2 gl' cx='200' cy='330' r='2.5' fill='%23fde68a'/%3E%3Ccircle class='f f3 gl' cx='650' cy='350' r='3' fill='%23fde68a'/%3E%3Ccircle class='f f4 gl' cx='750' cy='380' r='2' fill='%23fde68a'/%3E%3Ccircle class='f f1 gl' cx='300' cy='310' r='2.5' fill='%23fde68a'/%3E%3Ccircle class='f f2 gl' cx='550' cy='340' r='2' fill='%23fde68a'/%3E%3C/svg%3E">
-    <img src="data:image/svg+xml,%3Csvg width='840' height='520' viewBox='0 0 840 520' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3Cstyle%3E@keyframes twink%7B0%25,100%25%7Bopacity:.2%7D50%25%7Bopacity:1%7D%7D@keyframes drift%7B0%25,100%25%7Btransform:translateX(0)%7D50%25%7Btransform:translateX(30px)%7D%7D@keyframes blink%7B0%25,88%25,100%25%7Btransform:scaleY(1)%7D92%25%7Btransform:scaleY(.1)%7D%7D@keyframes sway%7B0%25,100%25%7Btransform:rotate(-2deg)%7D50%25%7Btransform:rotate(2deg)%7D%7D@keyframes glow%7B0%25,100%25%7Bopacity:.15%7D50%25%7Bopacity:.7%7D%7D@keyframes firefly%7B0%25%7Btransform:translateY(0)translateX(0);opacity:0%7D10%25%7Bopacity:.8%7D90%25%7Bopacity:.6%7D100%25%7Btransform:translateY(-140px)translateX(30px);opacity:0%7D%7D.s%7Banimation:twink 3s ease-in-out infinite%7D.s1%7Banimation-delay:.5s%7D.s2%7Banimation-delay:1s%7D.s3%7Banimation-delay:1.5s%7D.s4%7Banimation-delay:2s%7D.s5%7Banimation-delay:2.5s%7D.c%7Banimation:drift 8s ease-in-out infinite%7D.c1%7Banimation-delay:-2s%7D.c2%7Banimation-delay:-5s%7D.ey%7Banimation:blink 4s ease-in-out infinite;transform-origin:center%7D.g%7Banimation:sway 3s ease-in-out infinite;transform-origin:bottom%7D.g1%7Banimation-delay:-.5s%7D.g2%7Banimation-delay:-1s%7D.g3%7Banimation-delay:-1.5s%7D.gl%7Banimation:glow 4s ease-in-out infinite%7D.f%7Banimation:firefly 6s ease-in-out infinite%7D.f1%7Banimation-delay:-1s%7D.f2%7Banimation-delay:-2s%7D.f3%7Banimation-delay:-3s%7D.f4%7Banimation-delay:-4s%7D%3C/style%3E%3ClinearGradient id='lg' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0%25' stop-color='%23e8f4f8'/%3E%3Cstop offset='60%25' stop-color='%23f0fdf4'/%3E%3Cstop offset='100%25' stop-color='%23fafafa'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='840' height='520' fill='url(%23lg)' rx='20'/%3E%3C!-- clouds --%3E%3Cg class='c c1' opacity='.5'%3E%3Cellipse cx='180' cy='90' rx='70' ry='18' fill='%23e5e7eb'/%3E%3Ccircle cx='160' cy='85' r='22' fill='%23e5e7eb'/%3E%3Ccircle cx='200' cy='83' r='25' fill='%23e5e7eb'/%3E%3C/g%3E%3Cg class='c c2' opacity='.4'%3E%3Cellipse cx='580' cy='70' rx='60' ry='15' fill='%23e5e7eb'/%3E%3Ccircle cx='565' cy='66' r='18' fill='%23e5e7eb'/%3E%3Ccircle cx='595' cy='64' r='20' fill='%23e5e7eb'/%3E%3C/g%3E%3C!-- sun --%3E%3Ccircle cx='700' cy='75' r='28' fill='%23fbbf24' opacity='.2'/%3E%3Ccircle cx='700' cy='75' r='20' fill='%23f59e0b' opacity='.15'/%3E%3C!-- Totoro --%3E%3Cg transform='translate(420,300)'%3E%3Cellipse cx='0' cy='30' rx='105' ry='125' fill='%236b7280'/%3E%3Cellipse cx='0' cy='55' rx='68' ry='85' fill='%23d1d5db' opacity='.4'/%3E%3Cellipse cx='0' cy='-65' rx='85' ry='75' fill='%236b7280'/%3E%3Cpolygon points='-65,-105 -78,-165 -48,-120' fill='%236b7280'/%3E%3Cpolygon points='65,-105 78,-165 48,-120' fill='%236b7280'/%3E%3Cg%3E%3Ccircle cx='-28' cy='-73' r='11' fill='%231f2937'/%3E%3Ccircle cx='28' cy='-73' r='11' fill='%231f2937'/%3E%3Cg class='ey'%3E%3Ccircle cx='-26' cy='-75' r='4.5' fill='%23fde68a' opacity='.7'/%3E%3Ccircle cx='30' cy='-75' r='4.5' fill='%23fde68a' opacity='.7'/%3E%3C/g%3E%3C/g%3E%3Cellipse cx='0' cy='-55' rx='7' ry='5' fill='%23374151'/%3E%3Cpath d='M-14,-45 Q0,-35 14,-45' stroke='%23374151' stroke-width='2.5' fill='none'/%3E%3Cg stroke='%23d1d5db' stroke-width='1.5' opacity='.4'%3E%3Cline x1='-45' y1='-62' x2='-78' y2='-70'/%3E%3Cline x1='-45' y1='-53' x2='-78' y2='-53'/%3E%3Cline x1='-45' y1='-44' x2='-78' y2='-36'/%3E%3Cline x1='45' y1='-62' x2='78' y2='-70'/%3E%3Cline x1='45' y1='-53' x2='78' y2='-53'/%3E%3Cline x1='45' y1='-44' x2='78' y2='-36'/%3E%3C/g%3E%3Cellipse cx='-105' cy='15' rx='25' ry='38' fill='%236b7280' transform='rotate(-12,-105,15)'/%3E%3Cellipse cx='105' cy='15' rx='25' ry='38' fill='%236b7280' transform='rotate(12,105,15)'/%3E%3Cpath d='M-15,-30 L0,-18 L15,-30' stroke='%23d1d5db' stroke-width='1.5' fill='none' opacity='.3'/%3E%3Cellipse cx='-42' cy='155' rx='32' ry='12' fill='%234b5563'/%3E%3Cellipse cx='42' cy='155' rx='32' ry='12' fill='%234b5563'/%3E%3C/g%3E%3Cg fill='%23365e2b' opacity='.3'%3E%3Cpath class='g g1' d='M40,490 Q45,450 50,490'/%3E%3Cpath class='g g2' d='M100,490 Q105,445 110,490'/%3E%3Cpath class='g g3' d='M170,490 Q175,455 180,490'/%3E%3Cpath class='g g1' d='M240,490 Q245,440 250,490'/%3E%3Cpath class='g g2' d='M560,490 Q565,450 570,490'/%3E%3Cpath class='g g3' d='M630,490 Q635,445 640,490'/%3E%3Cpath class='g g1' d='M700,490 Q705,455 710,490'/%3E%3Cpath class='g g2' d='M770,490 Q775,440 780,490'/%3E%3C/g%3E%3Crect x='0' y='495' width='840' height='25' fill='%232d5016' opacity='.2'/%3E%3C/svg%3E">
-  </picture>
-</p>
+<div align="center">
+
+<!-- Banner SVG: ليلة عربية مع أنيميشن -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml,%3Csvg width='840' height='560' viewBox='0 0 840 560' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3Cstyle%3E@keyframes twink%7B0%25,100%25%7Bopacity:.15%7D50%25%7Bopacity:1%7D%7D@keyframes drift%7B0%25,100%25%7Btransform:translateX(0)%7D50%25%7Btransform:translateX(25px)%7D%7D@keyframes float%7B0%25,100%25%7Btransform:translateY(0)%7D50%25%7Btransform:translateY(-10px)%7D%7D@keyframes glow%7B0%25,100%25%7Bopacity:.2;r:2%7D50%25%7Bopacity:.8;r:4%7D%7D@keyframes pulse%7B0%25,100%25%7Bopacity:.3%7D50%25%7Bopacity:.9%7D%7D@keyframes rotateSlow%7B0%25%7Btransform:rotate(0deg)%7D100%25%7Btransform:rotate(360deg)%7D%7D@keyframes arabesque%7B0%25,100%25%7Bopacity:.12%7D50%25%7Bopacity:.3%7D%7D@keyframes write%7B0%25%7Bstroke-dashoffset:800%7D100%25%7Bstroke-dashoffset:0%7D%7D@keyframes fadeUp%7B0%25%7Bopacity:0;transform:translateY(20px)%7D100%25%7Bopacity:1;transform:translateY(0)%7D%7D.s%7Banimation:twink 3.5s ease-in-out infinite%7D.s1%7Banimation-delay:.3s%7D.s2%7Banimation-delay:.8s%7D.s3%7Banimation-delay:1.3s%7D.s4%7Banimation-delay:1.8s%7D.s5%7Banimation-delay:2.3s%7D.s6%7Banimation-delay:2.8s%7D.s7%7Banimation-delay:1s%7D.s8%7Banimation-delay:2s%7D.fl%7Banimation:float 5s ease-in-out infinite%7D.fl1%7Banimation-delay:-1s%7D.fl2%7Banimation-delay:-2.5s%7D.gl%7Banimation:glow 3s ease-in-out infinite%7D.pu%7Banimation:pulse 4s ease-in-out infinite%7D.ar%7Banimation:arabesque 6s ease-in-out infinite%7D.fu%7Banimation:fadeUp 2s ease-out forwards%7D%3C/style%3E%3ClinearGradient id='sky' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0%25' stop-color='%23080b1a'/%3E%3Cstop offset='50%25' stop-color='%2316244d'/%3E%3Cstop offset='100%25' stop-color='%231a2e0a'/%3E%3C/linearGradient%3E%3ClinearGradient id='gold' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0%25' stop-color='%23d4a843'/%3E%3Cstop offset='50%25' stop-color='%23f0d78c'/%3E%3Cstop offset='100%25' stop-color='%23c99533'/%3E%3C/linearGradient%3E%3ClinearGradient id='moonGlow' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0%25' stop-color='%23fef3c7' stop-opacity='.3'/%3E%3Cstop offset='100%25' stop-color='%23fef3c7' stop-opacity='0'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='840' height='560' fill='url(%23sky)' rx='20'/%3E%3C!-- Islamic geometric pattern background --%3E%3Cg opacity='.04'%3E%3Cpattern id='geo' x='0' y='0' width='80' height='80' patternUnits='userSpaceOnUse'%3E%3Cpolygon points='40,5 70,40 40,75 10,40' fill='none' stroke='%23d4a843' stroke-width='1'/%3E%3Cpolygon points='40,15 58,40 40,65 22,40' fill='none' stroke='%23d4a843' stroke-width='.5'/%3E%3C/pattern%3E%3Crect width='840' height='560' fill='url(%23geo)'/%3E%3C/g%3E%3C!-- Crescent moon with glow --%3E%3Ccircle cx='680' cy='90' r='60' fill='url(%23moonGlow)'/%3E%3Ccircle cx='680' cy='90' r='32' fill='%23fef3c7' opacity='.15'/%3E%3Ccircle cx='695' cy='82' r='32' fill='%23080b1a'/%3E%3Ccircle cx='675' cy='88' r='28' fill='%23fde68a' opacity='.9'/%3E%3Ccircle class='pu' cx='670' cy='95' r='25' fill='%23fef3c7'/%3E%3Ccircle cx='690' cy='85' r='24' fill='%23080b1a'/%3E%3C!-- Stars --%3E%3Cg class='s s1'%3E%3Ccircle cx='50' cy='50' r='2' fill='%23fde68a'/%3E%3C/g%3E%3Cg class='s s2'%3E%3Ccircle cx='140' cy='80' r='1.5' fill='%23fde68a'/%3E%3C/g%3E%3Cg class='s s3'%3E%3Ccircle cx='250' cy='40' r='2.5' fill='%23fde68a'/%3E%3C/g%3E%3Cg class='s s4'%3E%3Ccircle cx='380' cy='60' r='1.5' fill='%23fde68a'/%3E%3C/g%3E%3Cg class='s s5'%3E%3Ccircle cx='500' cy='35' r='2' fill='%23fde68a'/%3E%3C/g%3E%3Cg class='s s6'%3E%3Ccircle cx='580' cy='70' r='1.5' fill='%23fde68a'/%3E%3C/g%3E%3Cg class='s s7'%3E%3Ccircle cx='780' cy='45' r='2' fill='%23fde68a'/%3E%3C/g%3E%3Cg class='s s8'%3E%3Ccircle cx='100' cy='120' r='1.5' fill='%23fde68a'/%3E%3C/g%3E%3Cg class='s s1'%3E%3Ccircle cx='450' cy='100' r='1.8' fill='%23fde68a'/%3E%3C/g%3E%3Cg class='s s2'%3E%3Ccircle cx='320' cy='110' r='1.2' fill='%23fde68a'/%3E%3C/g%3E%3Cg class='s s3'%3E%3Ccircle cx='740' cy='100' r='1.5' fill='%23fde68a'/%3E%3C/g%3E%3C!-- Golden dome / mosque silhouette --%3E%3Cg transform='translate(120,330)' opacity='.15'%3E%3Cpath d='M0,120 L0,40 Q30,-10 60,40 L60,120 Z' fill='%23d4a843'/%3E%3Ccircle cx='30' cy='25' r='18' fill='none' stroke='%23d4a843' stroke-width='2'/%3E%3Cline x1='30' y1='7' x2='30' y2='-5' stroke='%23d4a843' stroke-width='2'/%3E%3C/g%3E%3Cg transform='translate(660,330)' opacity='.1'%3E%3Cpath d='M0,120 L0,40 Q30,-10 60,40 L60,120 Z' fill='%23d4a843'/%3E%3Ccircle cx='30' cy='25' r='18' fill='none' stroke='%23d4a843' stroke-width='2'/%3E%3C/g%3E%3C!-- Calligraphy: فأن مع العسر يسرا --%3E%3Cg transform='translate(420,155)'%3E%3Ctext class='fu' text-anchor='middle' font-family='Noto Naskh Arabic,Traditional Arabic,serif' font-size='42' fill='url(%23gold)'%3Eفإن مع العسر يسرا%3C/text%3E%3C/g%3E%3Cg transform='translate(420,205)' opacity='.7'%3E%3Ctext class='fu' style='animation-delay:.5s' text-anchor='middle' font-family='Noto Naskh Arabic,Traditional Arabic,serif' font-size='22' fill='%23fde68a'%3Eإِنَّ مَعَ الْعُسْرِ يُسْرًا%3C/text%3E%3C/g%3E%3C!-- Golden decorative line --%3E%3Cg opacity='.4'%3E%3Cline x1='200' y1='230' x2='640' y2='230' stroke='url(%23gold)' stroke-width='1'/%3E%3Ccircle cx='420' cy='230' r='3' fill='%23d4a843'/%3E%3Ccircle cx='300' cy='230' r='1.5' fill='%23d4a843'/%3E%3Ccircle cx='540' cy='230' r='1.5' fill='%23d4a843'/%3E%3C/g%3E%3C!-- Animated lanterns --%3E%3Cg class='fl fl1'%3E%3Cg transform='translate(150,260)'%3E%3Cpath d='M-12,0 L12,0 L10,35 L-10,35 Z' fill='%23d4a843' opacity='.3'/%3E%3Ccircle cx='0' cy='10' r='4' fill='%23fde68a' opacity='.5'/%3E%3Cpolygon points='-6,-3 6,-3 4,-10 -4,-10' fill='%23374151'/%3E%3Cline x1='0' y1='-10' x2='0' y2='-15' stroke='%23374151' stroke-width='1'/%3E%3C/g%3E%3C/g%3E%3Cg class='fl fl2'%3E%3Cg transform='translate(690,250)'%3E%3Cpath d='M-12,0 L12,0 L10,35 L-10,35 Z' fill='%23d4a843' opacity='.3'/%3E%3Ccircle cx='0' cy='10' r='4' fill='%23fde68a' opacity='.5'/%3E%3Cpolygon points='-6,-3 6,-3 4,-10 -4,-10' fill='%23374151'/%3E%3Cline x1='0' y1='-10' x2='0' y2='-15' stroke='%23374151' stroke-width='1'/%3E%3C/g%3E%3C/g%3E%3C!-- Olive tree silhouette — Palestine --%3E%3Cg transform='translate(420,420)' opacity='.12'%3E%3C!-- trunk --%3E%3Crect x='-3' y='0' width='6' height='60' fill='%239ca3af' rx='2'/%3E%3C!-- branches --%3E%3Cline x1='0' y1='10' x2='-25' y2='-15' stroke='%239ca3af' stroke-width='2'/%3E%3Cline x1='0' y1='10' x2='25' y2='-15' stroke='%239ca3af' stroke-width='2'/%3E%3Cline x1='0' y1='25' x2='-15' y2='-5' stroke='%239ca3af' stroke-width='1.5'/%3E%3Cline x1='0' y1='25' x2='15' y2='-5' stroke='%239ca3af' stroke-width='1.5'/%3E%3C!-- leaves (olive shapes) --%3E%3Cellipse cx='-25' cy='-18' rx='10' ry='5' fill='%23365e2b' transform='rotate(-30,-25,-18)'/%3E%3Cellipse cx='25' cy='-18' rx='10' ry='5' fill='%23365e2b' transform='rotate(30,25,-18)'/%3E%3Cellipse cx='-15' cy='-8' rx='8' ry='4' fill='%23365e2b' transform='rotate(-20,-15,-8)'/%3E%3Cellipse cx='15' cy='-8' rx='8' ry='4' fill='%23365e2b' transform='rotate(20,15,-8)'/%3E%3Cellipse cx='-5' cy='-25' rx='7' ry='4' fill='%23365e2b'/%3E%3C/g%3E%3C!-- Ground --%3E%3Crect x='0' y='510' width='840' height='50' fill='%231a2e0a' opacity='.6'/%3E%3Cg fill='%23365e2b' opacity='.35'%3E%3Cpath d='M30,510 Q35,485 40,510'/%3E%3Cpath d='M90,510 Q95,480 100,510'/%3E%3Cpath d='M160,510 Q165,490 170,510'/%3E%3Cpath d='M230,510 Q235,475 240,510'/%3E%3Cpath d='M560,510 Q565,485 570,510'/%3E%3Cpath d='M640,510 Q645,478 650,510'/%3E%3Cpath d='M720,510 Q725,490 730,510'/%3E%3Cpath d='M790,510 Q795,483 800,510'/%3E%3C/g%3E%3C!-- Watermelon subtle colors (Palestine) --%3E%3Cg transform='translate(20,470)' opacity='.08'%3E%3Cpath d='M0,0 Q25,-30 50,0 Q25,10 0,0 Z' fill='%2322c55e'/%3E%3Cpath d='M8,-2 Q25,-18 42,-2 Q25,4 8,-2 Z' fill='%23ef4444'/%3E%3Ccircle cx='25' cy='-5' r='3' fill='%23181717'/%3E%3C/g%3E%3C/svg%3E">
+    <img src="data:image/svg+xml,%3Csvg width='840' height='560' viewBox='0 0 840 560' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3Cstyle%3E@keyframes float%7B0%25,100%25%7Btransform:translateY(0)%7D50%25%7Btransform:translateY(-10px)%7D%7D.fl%7Banimation:float 5s ease-in-out infinite%7D.fl1%7Banimation-delay:-1s%7D.fl2%7Banimation-delay:-2.5s%7D%3C/style%3E%3ClinearGradient id='sky' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0%25' stop-color='%23f0e6d3'/%3E%3Cstop offset='60%25' stop-color='%23fdf6e3'/%3E%3Cstop offset='100%25' stop-color='%23fafafa'/%3E%3C/linearGradient%3E%3ClinearGradient id='gold' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0%25' stop-color='%23b8860b'/%3E%3Cstop offset='50%25' stop-color='%23daa520'/%3E%3Cstop offset='100%25' stop-color='%23b8860b'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='840' height='560' fill='url(%23sky)' rx='20'/%3E%3C!-- geometric pattern light --%3E%3Cg opacity='.04'%3E%3Cpattern id='geo2' x='0' y='0' width='80' height='80' patternUnits='userSpaceOnUse'%3E%3Cpolygon points='40,5 70,40 40,75 10,40' fill='none' stroke='%23b8860b' stroke-width='1'/%3E%3C/pattern%3E%3Crect width='840' height='560' fill='url(%23geo2)'/%3E%3C/g%3E%3C!-- sun --%3E%3Ccircle cx='680' cy='100' r='30' fill='%23fbbf24' opacity='.2'/%3E%3Ccircle cx='680' cy='100' r='22' fill='%23f59e0b' opacity='.15'/%3E%3C!-- Calligraphy --%3E%3Ctext text-anchor='middle' x='420' y='155' font-family='Noto Naskh Arabic,Traditional Arabic,serif' font-size='42' fill='url(%23gold)'%3Eفإن مع العسر يسرا%3C/text%3E%3Ctext text-anchor='middle' x='420' y='205' opacity='.7' font-family='Noto Naskh Arabic,Traditional Arabic,serif' font-size='22' fill='%23b8860b'%3Eإِنَّ مَعَ الْعُسْرِ يُسْرًا%3E/text%3E%3C!-- Decorative line --%3E%3Cg opacity='.3'%3E%3Cline x1='200' y1='230' x2='640' y2='230' stroke='%23b8860b' stroke-width='1'/%3E%3Ccircle cx='420' cy='230' r='3' fill='%23b8860b'/%3E%3C/g%3E%3C!-- Lanterns --%3E%3Cg class='fl fl1'%3E%3Cg transform='translate(150,260)'%3E%3Cpath d='M-12,0 L12,0 L10,35 L-10,35 Z' fill='%23b8860b' opacity='.25'/%3E%3Ccircle cx='0' cy='10' r='4' fill='%23f59e0b' opacity='.5'/%3E%3Cpolygon points='-6,-3 6,-3 4,-10 -4,-10' fill='%239ca3af'/%3E%3Cline x1='0' y1='-10' x2='0' y2='-15' stroke='%239ca3af' stroke-width='1'/%3E%3C/g%3E%3C/g%3E%3Cg class='fl fl2'%3E%3Cg transform='translate(690,250)'%3E%3Cpath d='M-12,0 L12,0 L10,35 L-10,35 Z' fill='%23b8860b' opacity='.25'/%3E%3Ccircle cx='0' cy='10' r='4' fill='%23f59e0b' opacity='.5'/%3E%3Cpolygon points='-6,-3 6,-3 4,-10 -4,-10' fill='%239ca3af'/%3E%3Cline x1='0' y1='-10' x2='0' y2='-15' stroke='%239ca3af' stroke-width='1'/%3E%3C/g%3E%3C/g%3E%3C!-- Ground --%3E%3Crect x='0' y='510' width='840' height='50' fill='%23365e2b' opacity='.08'/%3E%3Cg fill='%23365e2b' opacity='.15'%3E%3Cpath d='M30,510 Q35,485 40,510'/%3E%3Cpath d='M90,510 Q95,480 100,510'/%3E%3Cpath d='M160,510 Q165,490 170,510'/%3E%3Cpath d='M560,510 Q565,485 570,510'/%3E%3Cpath d='M640,510 Q645,478 650,510'/%3E%3Cpath d='M790,510 Q795,483 800,510'/%3E%3C/g%3E%3C/svg%3E">
+</picture>
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/ID-KM/ID-KM/blob/main/studio-ghibli-logo.jpg">
-    <img src="studio-ghibli-logo.jpg" alt="Studio Ghibli" width="220" style="opacity: 0.85; border-radius: 4px;">
-  </a>
-</p>
+<!-- الآية الكريمة -->
+<samp>
+  <sub>
+    <sub>﴿ فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ﴾</sub><br>
+    <sub>﴿ إِنَّ مَعَ الْعُسْرِ يُسْرًا ﴾</sub><br>
+    <sub><sub>— سورة الشرح</sub></sub>
+  </sub>
+</samp>
+
+<br>
+<br>
+
+---
 
 <br>
 
-<p align="center">
-  <samp>
-    <i>「 風の通り道 」</i><br>
-    <sub>طريق الريح — ممر الرياح</sub>
-  </samp>
-</p>
+<!-- نبذة — سيكولوجية الجذب -->
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <samp>
+        <sub>❝</sub><br>
+        <sub>أكتب كوداً</sub><br>
+        <sub>ليس لأنه عملي</sub><br>
+        <sub>بل لأنه</sub><br>
+        <sub>طريقتي</sub><br>
+        <sub>لفهم العالم</sub><br>
+        <sub>❞</sub>
+      </samp>
+    </td>
+    <td width="20"></td>
+    <td align="right" width="380" dir="rtl">
+      <sub>أحوّل الأفكار إلى تطبيقات.<br>
+      أعمل بـ Python, Flask, Flutter, Godot.<br>
+      أؤمن بأن أقل كود يحل المشكلة<br>
+      هو الكود الأفضل.<br>
+      <sub><sub>— لا تعقيد، لا feature creep، لا كسل</sub></sub></sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <sub><sub>— となりのトトロ</sub></sub>
-</p>
+<br>
+
+---
+
+<br>
+
+<!-- المشاريع — كل واحد كشجرة في غابة -->
+<sub>الغابة</sub>
+
+<br><br>
+
+<pre>
+<a href="https://github.com/ID-KM/vocal-remover-2">🎤 vocal-remover-2</a>   <sub>عزل صوت + تحميل</sub>
+<a href="https://github.com/ID-KM/vocal-remover-1">🎤 vocal-remover-1</a>   <sub>عزل صوت</sub>
+<a href="https://github.com/ID-KM/haddara">💬 haddara</a>          <sub>دردشة عربية</sub>
+<a href="https://github.com/ID-KM/nexus-chat-v2">💬 nexus-chat-v2</a>     <sub>شات WebSocket</sub>
+<a href="https://github.com/ID-KM/atlas-warden">⏱️ atlas-warden</a>      <sub>حماية وقت الشاشة</sub>
+<a href="https://github.com/ID-KM/media_downloader">📱 media_downloader</a>   <sub>Flutter تحميل</sub>
+</pre>
+
+<br>
+
+---
+
+<br>
+
+<!-- الدعاء لفلسطين -->
+<div dir="rtl" align="center">
+
+<br>
+
+<samp>
+  <sub>
+    <sub>﴿ وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالْمُسْتَضْعَفِينَ﴾<br>
+    — سورة النساء ٧٥</sub>
+  </sub>
+</samp>
+
+<br><br>
+
+<sub>اللهم انصر إخواننا في فلسطين، واربط على قلوبهم،<br>
+واجعل لهم من كل ضيق فرجاً، ومن كل عسر يسراً.<br>
+ولا تنسوهم من صالح دعائكم 🤍</sub>
+
+<br>
+
+<sub>
+  <sub>•</sub>&nbsp;&nbsp;<sub>•</sub>&nbsp;&nbsp;<sub>•</sub>&nbsp;&nbsp;<sub>•</sub>
+</sub>
+
+</div>
 
 <br>
 
@@ -32,56 +107,14 @@
 
 <div align="center">
 
-<br>
-
 <samp>
-  <sub>الغابة</sub>
+  <sub>「 مع العسر يسراً 」</sub>
 </samp>
 
-<br>
 <br>
 
 <p>
-  <a href="https://github.com/ID-KM/vocal-remover-1"><sub>🌲</sub></a>
-  &nbsp;
-  <a href="https://github.com/ID-KM/vocal-remover-2"><sub>🌲</sub></a>
-  &nbsp;
-  <a href="https://github.com/ID-KM/haddara"><sub>🌳</sub></a>
-  &nbsp;
-  <a href="https://github.com/ID-KM/nexus-chat-v2"><sub>🌳</sub></a>
-  &nbsp;
-  <a href="https://github.com/ID-KM/atlas-warden"><sub>🌲</sub></a>
-  &nbsp;
-  <a href="https://github.com/ID-KM/media_downloader"><sub>🌳</sub></a>
+  <a href="https://github.com/ID-KM"><img src="https://img.shields.io/badge/-%C2%B7-1a2e0a?style=flat-square&logo=github&logoColor=white" height="20"></a>
 </p>
-
-<br>
-
-<samp>
-  <sub>•</sub>&nbsp;&nbsp;<sub>•</sub>&nbsp;&nbsp;<sub>•</sub>&nbsp;&nbsp;<sub>•</sub>&nbsp;&nbsp;<sub>•</sub>
-</samp>
-
-<br>
-<br>
-
-<samp>
-  <sub><sub>「 木漏れ日 」</sub></sub><br>
-  <sub><sub>ضوء الشمس يتسلّل عبر الأوراق</sub></sub>
-</samp>
 
 </div>
-
----
-
-<br>
-
-<p align="center">
-  <samp>
-    <sub>「 いつでも笑顔を忘れずに 」</sub><br>
-    <sub>لا تنسَ الابتسامة أبداً</sub>
-  </samp>
-</p>
-
-<p align="center">
-  <sub><sub><sub>— ハウルの動く城</sub></sub></sub>
-</p>

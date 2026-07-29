@@ -1,21 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Naskh+Arabic&weight=600&size=48&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=%D8%B3%D8%B7%D9%88%D8%B1+%D9%88%D8%B8%D9%84%D8%A7%D9%84;%D9%84%D9%8A%D8%B3+%D9%83%D9%84+%D8%AE%D8%B7%D8%A3+%D9%8A%D8%B3%D8%AA%D8%AD%D9%82+%D8%A7%D9%84%D9%86%D8%AF%D9%85;%D8%AE%D9%84+%D8%A7%D9%84%D8%AE%D8%B7+%D9%8A%D8%B9%D9%8A%D8%B4" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml,%3Csvg width='800' height='380' viewBox='0 0 800 380' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='sky' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0%25' stop-color='%231a1a2e'/%3E%3Cstop offset='100%25' stop-color='%232d3748'/%3E%3C/linearGradient%3E%3ClinearGradient id='ground' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0%25' stop-color='%232d5016'/%3E%3Cstop offset='100%25' stop-color='%231a2e0a'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='380' fill='%230d1117' rx='16'/%3E%3C!-- stars --%3E%3Ccircle cx='120' cy='50' r='1.5' fill='%23fde68a' opacity='0.6'/%3E%3Ccircle cx='300' cy='35' r='1' fill='%23fde68a' opacity='0.4'/%3E%3Ccircle cx='520' cy='60' r='1.5' fill='%23fde68a' opacity='0.5'/%3E%3Ccircle cx='680' cy='40' r='1' fill='%23fde68a' opacity='0.3'/%3E%3Ccircle cx='200' cy='80' r='1' fill='%23fde68a' opacity='0.4'/%3E%3Ccircle cx='600' cy='75' r='1.2' fill='%23fde68a' opacity='0.5'/%3E%3Ccircle cx='450' cy='30' r='1' fill='%23fde68a' opacity='0.6'/%3E%3Ccircle cx='750' cy='70' r='1' fill='%23fde68a' opacity='0.3'/%3E%3C!-- moon --%3E%3Ccircle cx='650' cy='70' r='25' fill='%23fde68a' opacity='0.15'/%3E%3Ccircle cx='650' cy='70' r='20' fill='%23fde68a' opacity='0.08'/%3E%3C!-- Totoro body --%3E%3Cg transform='translate(400,210)'%3E%3C!-- body --%3E%3Cellipse cx='0' cy='20' rx='75' ry='90' fill='%234b5563'/%3E%3C!-- belly --%3E%3Cellipse cx='0' cy='35' rx='48' ry='60' fill='%239ca3af' opacity='0.5'/%3E%3C!-- head --%3E%3Cellipse cx='0' cy='-50' rx='60' ry='55' fill='%234b5563'/%3E%3C!-- ears --%3E%3Cpolygon points='-45,-80 -55,-120 -35,-90' fill='%234b5563'/%3E%3Cpolygon points='45,-80 55,-120 35,-90' fill='%234b5563'/%3E%3C!-- eyes --%3E%3Ccircle cx='-20' cy='-55' r='8' fill='%231a1a2e'/%3E%3Ccircle cx='20' cy='-55' r='8' fill='%231a1a2e'/%3E%3Ccircle cx='-18' cy='-57' r='3' fill='%23fde68a' opacity='0.6'/%3E%3Ccircle cx='22' cy='-57' r='3' fill='%23fde68a' opacity='0.6'/%3E%3C!-- nose --%3E%3Cellipse cx='0' cy='-42' rx='5' ry='3' fill='%232d3748'/%3E%3C!-- mouth --%3E%3Cpath d='M-8,-35 Q0,-28 8,-35' stroke='%232d3748' stroke-width='1.5' fill='none'/%3E%3C!-- whiskers --%3E%3Cline x1='-32' y1='-45' x2='-55' y2='-50' stroke='%239ca3af' stroke-width='1' opacity='0.5'/%3E%3Cline x1='-32' y1='-40' x2='-55' y2='-40' stroke='%239ca3af' stroke-width='1' opacity='0.5'/%3E%3Cline x1='-32' y1='-35' x2='-55' y2='-30' stroke='%239ca3af' stroke-width='1' opacity='0.5'/%3E%3Cline x1='32' y1='-45' x2='55' y2='-50' stroke='%239ca3af' stroke-width='1' opacity='0.5'/%3E%3Cline x1='32' y1='-40' x2='55' y2='-40' stroke='%239ca3af' stroke-width='1' opacity='0.5'/%3E%3Cline x1='32' y1='-35' x2='55' y2='-30' stroke='%239ca3af' stroke-width='1' opacity='0.5'/%3E%3C!-- arms --%3E%3Cellipse cx='-75' cy='10' rx='18' ry='25' fill='%234b5563' transform='rotate(-15,-75,10)'/%3E%3Cellipse cx='75' cy='10' rx='18' ry='25' fill='%234b5563' transform='rotate(15,75,10)'/%3E%3C!-- feet --%3E%3Cellipse cx='-30' cy='110' rx='22' ry='10' fill='%23374151'/%3E%3Cellipse cx='30' cy='110' rx='22' ry='10' fill='%23374151'/%3E%3C/g%3E%3C!-- grass --%3E%3Cg fill='%23365e2b' opacity='0.6'%3E%3Cpath d='M50,350 Q55,320 60,350'/%3E%3Cpath d='M120,350 Q125,310 130,350'/%3E%3Cpath d='M200,350 Q205,325 210,350'/%3E%3Cpath d='M280,350 Q285,315 290,350'/%3E%3Cpath d='M350,350 Q355,330 360,350'/%3E%3Cpath d='M470,350 Q475,320 480,350'/%3E%3Cpath d='M550,350 Q555,325 560,350'/%3E%3Cpath d='M630,350 Q635,310 640,350'/%3E%3Cpath d='M700,350 Q705,330 710,350'/%3E%3Cpath d='M750,350 Q755,320 760,350'/%3E%3C/g%3E%3C!-- ground line --%3E%3Crect x='0' y='350' width='800' height='30' fill='%231a2e0a' opacity='0.5'/%3E%3C/svg%3E">
+    <img src="data:image/svg+xml,%3Csvg width='800' height='380' viewBox='0 0 800 380' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='sky' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0%25' stop-color='%23e8f4f8'/%3E%3Cstop offset='100%25' stop-color='%23f0fdf4'/%3E%3C/linearGradient%3E%3ClinearGradient id='ground' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0%25' stop-color='%234a7c59'/%3E%3Cstop offset='100%25' stop-color='%232d5016'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='380' fill='%23fafafa' rx='16'/%3E%3C!-- clouds --%3E%3Cellipse cx='150' cy='55' rx='50' ry='18' fill='%23e5e7eb' opacity='0.5'/%3E%3Cellipse cx='500' cy='45' rx='60' ry='15' fill='%23e5e7eb' opacity='0.4'/%3E%3Ccircle cx='140' cy='50' r='20' fill='%23f3f4f6' opacity='0.5'/%3E%3Ccircle cx='160' cy='48' r='22' fill='%23f3f4f6' opacity='0.4'/%3E%3C!-- Totoro body (lighter for light mode) --%3E%3Cg transform='translate(400,210)'%3E%3Cellipse cx='0' cy='20' rx='75' ry='90' fill='%236b7280'/%3E%3Cellipse cx='0' cy='35' rx='48' ry='60' fill='%23d1d5db' opacity='0.5'/%3E%3Cellipse cx='0' cy='-50' rx='60' ry='55' fill='%236b7280'/%3E%3Cpolygon points='-45,-80 -55,-120 -35,-90' fill='%236b7280'/%3E%3Cpolygon points='45,-80 55,-120 35,-90' fill='%236b7280'/%3E%3Ccircle cx='-20' cy='-55' r='8' fill='%231f2937'/%3E%3Ccircle cx='20' cy='-55' r='8' fill='%231f2937'/%3E%3Ccircle cx='-18' cy='-57' r='3' fill='%23fde68a' opacity='0.6'/%3E%3Ccircle cx='22' cy='-57' r='3' fill='%23fde68a' opacity='0.6'/%3E%3Cellipse cx='0' cy='-42' rx='5' ry='3' fill='%23374151'/%3E%3Cpath d='M-8,-35 Q0,-28 8,-35' stroke='%23374151' stroke-width='1.5' fill='none'/%3E%3Cline x1='-32' y1='-45' x2='-55' y2='-50' stroke='%23d1d5db' stroke-width='1' opacity='0.5'/%3E%3Cline x1='-32' y1='-40' x2='-55' y2='-40' stroke='%23d1d5db' stroke-width='1' opacity='0.5'/%3E%3Cline x1='-32' y1='-35' x2='-55' y2='-30' stroke='%23d1d5db' stroke-width='1' opacity='0.5'/%3E%3Cline x1='32' y1='-45' x2='55' y2='-50' stroke='%23d1d5db' stroke-width='1' opacity='0.5'/%3E%3Cline x1='32' y1='-40' x2='55' y2='-40' stroke='%23d1d5db' stroke-width='1' opacity='0.5'/%3E%3Cline x1='32' y1='-35' x2='55' y2='-30' stroke='%23d1d5db' stroke-width='1' opacity='0.5'/%3E%3Cellipse cx='-75' cy='10' rx='18' ry='25' fill='%236b7280' transform='rotate(-15,-75,10)'/%3E%3Cellipse cx='75' cy='10' rx='18' ry='25' fill='%236b7280' transform='rotate(15,75,10)'/%3E%3Cellipse cx='-30' cy='110' rx='22' ry='10' fill='%234b5563'/%3E%3Cellipse cx='30' cy='110' rx='22' ry='10' fill='%234b5563'/%3E%3C/g%3E%3Cg fill='%23365e2b' opacity='0.4'%3E%3Cpath d='M50,350 Q55,320 60,350'/%3E%3Cpath d='M120,350 Q125,310 130,350'/%3E%3Cpath d='M200,350 Q205,325 210,350'/%3E%3Cpath d='M280,350 Q285,315 290,350'/%3E%3Cpath d='M350,350 Q355,330 360,350'/%3E%3Cpath d='M470,350 Q475,320 480,350'/%3E%3Cpath d='M550,350 Q555,325 560,350'/%3E%3Cpath d='M630,350 Q635,310 640,350'/%3E%3Cpath d='M700,350 Q705,330 710,350'/%3E%3Cpath d='M750,350 Q755,320 760,350'/%3E%3C/g%3E%3Crect x='0' y='350' width='800' height='30' fill='%232d5016' opacity='0.3'/%3E%3C/svg%3E">
+  </picture>
 </p>
-
----
 
 <br>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml,%3Csvg width='960' height='240' viewBox='0 0 960 240' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%237C3AED'/%3E%3Cstop offset='100%25' stop-color='%23EC4899'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='960' height='240' fill='%230d1117' rx='12'/%3E%3Cline x1='40' y1='30' x2='920' y2='30' stroke='%2330363d' stroke-width='1'/%3E%3Cline x1='40' y1='210' x2='920' y2='210' stroke='%2330363d' stroke-width='1'/%3E%3Ccircle cx='80' cy='120' r='60' fill='none' stroke='url(%23g)' stroke-width='1.5' opacity='0.15'/%3E%3Ccircle cx='480' cy='60' r='4' fill='%237C3AED' opacity='0.3'/%3E%3Ccircle cx='750' cy='180' r='3' fill='%23EC4899' opacity='0.3'/%3E%3Ccircle cx='300' cy='180' r='2' fill='%23fff' opacity='0.1'/%3E%3Ctext x='480' y='126' font-family='Noto+Naskh+Arabic,serif' font-size='20' fill='%23c9d1d9' text-anchor='middle'%3E%D8%A3%D8%AD%D9%8A%D8%A7%D9%86%D9%8B%D8%A7%20%D9%86%D9%83%D8%AA%D8%A8%20%D9%84%D9%86%D8%B1%D9%89%20%D9%83%D9%8A%D9%81%20%D8%AA%D8%A8%D8%AF%D9%88%20%D8%A7%D9%84%D9%83%D9%84%D9%85%D8%A7%D8%AA%3C/text%3E%3C/svg%3E">
-    <img src="data:image/svg+xml,%3Csvg width='960' height='240' viewBox='0 0 960 240' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%237C3AED'/%3E%3Cstop offset='100%25' stop-color='%23EC4899'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='960' height='240' fill='%23ffffff' rx='12'/%3E%3Cline x1='40' y1='30' x2='920' y2='30' stroke='%23e5e7eb' stroke-width='1'/%3E%3Cline x1='40' y1='210' x2='920' y2='210' stroke='%23e5e7eb' stroke-width='1'/%3E%3Ccircle cx='80' cy='120' r='60' fill='none' stroke='url(%23g)' stroke-width='1.5' opacity='0.15'/%3E%3Ccircle cx='480' cy='60' r='4' fill='%237C3AED' opacity='0.3'/%3E%3Ccircle cx='750' cy='180' r='3' fill='%23EC4899' opacity='0.3'/%3E%3Ccircle cx='300' cy='180' r='2' fill='%23000' opacity='0.1'/%3E%3Ctext x='480' y='126' font-family='Noto+Naskh+Arabic,serif' font-size='20' fill='%23374151' text-anchor='middle'%3E%D8%A3%D8%AD%D9%8A%D8%A7%D9%86%D9%8B%D8%A7%20%D9%86%D9%83%D8%AA%D8%A8%20%D9%84%D9%86%D8%B1%D9%89%20%D9%83%D9%8A%D9%81%20%D8%AA%D8%A8%D8%AF%D9%88%20%D8%A7%D9%84%D9%83%D9%84%D9%85%D8%A7%D8%AA%3C/text%3E%3C/svg%3E">
-  </picture>
+  <samp>
+    <i>「 木々のささやき、風のにおい 」</i><br>
+    <sub>همس الأشجار، رائحة الريح</sub>
+  </samp>
 </p>
 
-<p align="center">
-  <sub><samp>أحياناً نكتب لنرى كيف تبدو الكلمات</samp></sub>
-</p>
+<br>
 
 ---
 
@@ -23,36 +22,48 @@
 
 <br>
 
-<pre><samp>  — · —  </samp></pre>
-
-<br>
-
-<p float="center">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=vercel&logoColor=white" height="20">
-  &nbsp;
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=vercel&logoColor=white" height="20">
-  &nbsp;
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=vercel&logoColor=white" height="20">
-  &nbsp;
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=vercel&logoColor=white" height="20">
+<p>
+  <img src="https://img.shields.io/badge/·-2D5016?style=flat-square" height="10">
+  <img src="https://img.shields.io/badge/·-6B7280?style=flat-square" height="10">
+  <img src="https://img.shields.io/badge/·-365E2B?style=flat-square" height="10">
+  <img src="https://img.shields.io/badge/·-9CA3AF?style=flat-square" height="10">
+  <img src="https://img.shields.io/badge/·-4A7C59?style=flat-square" height="10">
 </p>
 
 <br>
 
-<i>سطور</i>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;<i>ظلال</i>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;<i>تجارب</i>
+<samp>
+  •&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;•
+</samp>
+
+<br>
+
+<samp>
+  <a href="https://github.com/ID-KM/vocal-remover-2"><sub>🌱</sub></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ID-KM/haddara"><sub>🌿</sub></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ID-KM/nexus-chat-v2"><sub>🍃</sub></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ID-KM/atlas-warden"><sub>🌲</sub></a>
+</samp>
+
+<br>
+<br>
 
 </div>
 
 ---
 
+<br>
+
 <p align="center">
-  <a href="https://github.com/ID-KM" alt="Home">
-    <img src="https://img.shields.io/badge/-%C2%B7-7C3AED?style=flat-square" height="16">
-  </a>
-  <a href="https://github.com/ID-KM/vocal-remover-2" alt="Project">
-    <img src="https://img.shields.io/badge/-%C2%B7-EC4899?style=flat-square" height="16">
-  </a>
-  <a href="https://github.com/ID-KM" alt="Back">
-    <img src="https://img.shields.io/badge/-%C2%B7-7C3AED?style=flat-square" height="16">
-  </a>
+  <samp>
+    <sub>「 生きているだけで素晴らしい 」</sub><br>
+    <sub>مجرد أن تكون على قيد الحياة، فهذا رائع</sub>
+  </samp>
+</p>
+
+<p align="center">
+  <sub><sub><sub>— となりのトトロ</sub></sub></sub>
 </p>

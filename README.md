@@ -25,12 +25,12 @@
 <table align="center" width="85%" dir="rtl">
   <tr>
     <td align="center" width="40">🎤</td>
-    <td><a href="https://github.com/ID-KM/vocal-remover-2"><b>vocal-remover-2</b></a></td>
+    <td><a href="https://github.com/ID-KM/music-remover-2"><b>music-remover-2</b></a></td>
     <td align="right">عزل صوت + تحميل</td>
   </tr>
   <tr>
     <td align="center">🎤</td>
-    <td><a href="https://github.com/ID-KM/vocal-remover-1"><b>vocal-remover-1</b></a></td>
+    <td><a href="https://github.com/ID-KM/music-remover-1"><b>music-remover-1</b></a></td>
     <td align="right">عزل صوت</td>
   </tr>
   <tr>

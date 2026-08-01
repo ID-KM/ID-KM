@@ -25,7 +25,13 @@
 <table align="center" width="85%" dir="rtl">
   <tr>
     <td align="center">
-      <img src="assets/projects-grid.png" alt="مشاريع ID-KM" width="100%" />
+      <a href="https://github.com/ID-KM/midad"><img src="assets/card-1.png" width="31%" alt="midad" /></a>
+      <a href="https://github.com/ID-KM/music-remover-2"><img src="assets/card-2.png" width="31%" alt="music-remover-2" /></a>
+      <a href="https://github.com/ID-KM/music-remover-1"><img src="assets/card-3.png" width="31%" alt="music-remover-1" /></a>
+      <br/>
+      <a href="https://github.com/ID-KM/haddara"><img src="assets/card-4.png" width="31%" alt="haddara" /></a>
+      <a href="https://github.com/ID-KM/nexus-chat-v2"><img src="assets/card-5.png" width="31%" alt="nexus-chat-v2" /></a>
+      <a href="https://github.com/ID-KM/media_downloader"><img src="assets/card-6.png" width="31%" alt="media_downloader" /></a>
     </td>
   </tr>
 </table>

@@ -24,6 +24,11 @@
 
 <table align="center" width="85%" dir="rtl">
   <tr>
+    <td align="center" width="40">📖</td>
+    <td><a href="https://github.com/ID-KM/midad"><b>midad</b></a></td>
+    <td align="right">قارئ كتب عربي — PDF + EPUB + Archive.org</td>
+  </tr>
+  <tr>
     <td align="center" width="40">🎤</td>
     <td><a href="https://github.com/ID-KM/music-remover-2"><b>music-remover-2</b></a></td>
     <td align="right">عزل صوت + تحميل</td>

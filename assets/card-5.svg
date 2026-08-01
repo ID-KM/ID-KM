@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="460" height="150" viewBox="0 0 460 150">
+  <rect x="3" y="3" width="454" height="144" rx="16" fill="#0d1b2e" stroke="#d4a843" stroke-width="3"/>
+  <rect x="14" y="14" width="88" height="122" rx="12" fill="#16244d"/>
+  <image x="26" y="37" width="64" height="64" xlink:href="icons/nexus.png" href="icons/nexus.png"/>
+  <text x="430" y="52" text-anchor="end" direction="rtl" font-family="Amiri" font-size="26" font-weight="bold" fill="#f0d78c">nexus-chat-v2</text>
+  <text x="430" y="88" text-anchor="end" direction="rtl" font-family="Amiri" font-size="18" fill="#fef3c7">محادثة — Supabase</text>
+  <text x="430" y="120" text-anchor="end" direction="rtl" font-family="Amiri" font-size="14" fill="#d4a843">github.com/ID-KM/nexus-chat-v2</text>
+</svg>

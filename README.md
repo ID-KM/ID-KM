@@ -24,34 +24,9 @@
 
 <table align="center" width="85%" dir="rtl">
   <tr>
-    <td align="center" width="40">📖</td>
-    <td><a href="https://github.com/ID-KM/midad"><b>midad</b></a></td>
-    <td align="right">قارئ كتب عربي — PDF + EPUB + Archive.org</td>
-  </tr>
-  <tr>
-    <td align="center" width="40">🎤</td>
-    <td><a href="https://github.com/ID-KM/music-remover-2"><b>music-remover-2</b></a></td>
-    <td align="right">عزل صوت + تحميل</td>
-  </tr>
-  <tr>
-    <td align="center">🎤</td>
-    <td><a href="https://github.com/ID-KM/music-remover-1"><b>music-remover-1</b></a></td>
-    <td align="right">عزل صوت</td>
-  </tr>
-  <tr>
-    <td align="center">💬</td>
-    <td><a href="https://github.com/ID-KM/haddara/tree/main/supabase"><b>haddara</b></a></td>
-    <td align="right">محادثة — Supabase</td>
-  </tr>
-  <tr>
-    <td align="center">💬</td>
-    <td><a href="https://github.com/ID-KM/nexus-chat-v2/tree/main/supabase"><b>nexus-chat-v2</b></a></td>
-    <td align="right">محادثة — Supabase</td>
-  </tr>
-  <tr>
-    <td align="center">📱</td>
-    <td><a href="https://github.com/ID-KM/media_downloader"><b>media_downloader</b></a></td>
-    <td align="right">تحميل وسائط</td>
+    <td align="center">
+      <img src="assets/projects-grid.png" alt="مشاريع ID-KM" width="100%" />
+    </td>
   </tr>
 </table>
 

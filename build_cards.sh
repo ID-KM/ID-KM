@@ -4,7 +4,7 @@ cd /tmp/ID-KM-profile/assets
 AMIRI="/usr/share/fonts/TTF/Amiri-Bold.ttf"
 DARK="#0d1b2e"; CARD="#16244d"; GOLD="#d4a843"; LGOLD="#f0d78c"; CREAM="#fef3c7"
 W=520; H=160
-CX=$((W / 2))   # مركز البطاقة = 260
+RIGHT_X=505   # محاذاة يمنى كاملة — كل الأسطر تنتهي عند هذه الحافة (أقصى حد دون قصّ)
 
 # رسم سطر نصي على كانفاس واسع ثم قصّه لأبعاده الحقيقية
 render_line() {
@@ -20,7 +20,7 @@ add_line() {
   render_line "$text" "$color" "$size"
   local w h
   read w h <<< "$(identify -format '%w %h' /tmp/tline_$$.png)"
-  local x=$(( (CX - w) / 2 ))
+  local x=$(( RIGHT_X - w ))   # الحافة اليمنى للنص عند RIGHT_X
   [ $x -lt 12 ] && x=12
   magick "$canvas" /tmp/tline_$$.png -geometry "+${x}+${y}" -composite "$canvas"
   rm -f /tmp/tline_$$.png
